@@ -16,22 +16,44 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#ffffff"
+     pagecolor="#bbbbbb"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.375"
-     inkscape:cx="15.864407"
-     inkscape:cy="59.186441"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="95.105862"
+     inkscape:cy="42.338018"
      inkscape:window-width="1920"
      inkscape:window-height="1080"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg1" />
+     inkscape:current-layer="svg1"
+     showguides="true">
+    <sodipodi:guide
+       position="36.021921,79.73881"
+       orientation="1,0"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="42.666104,48.052988"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="38.362117,79.208247"
+       orientation="0,-1"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="52.973087,79.531095"
+       orientation="1,0"
+       id="guide5"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <defs
      id="defs1">
     <style
@@ -45,6 +67,15 @@
   <path
      style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.82628"
      class="ColorScheme-Text"
-     d="M 10.330434,42.864043 A 33.91532,33.91532 0 0 1 15.055615,25.669021 L 30.257892,40.865778 28.248587,42.864043 15.800825,30.416281 A 31.089044,31.089044 0 0 0 13.15671,42.864043 31.089044,31.089044 0 0 0 44.245754,73.953087 31.089044,31.089044 0 0 0 59.370749,69.984155 l 2.058988,2.070027 A 33.91532,33.91532 0 0 1 44.245754,76.779363 33.91532,33.91532 0 0 1 10.330434,42.864043 Z M 27.050732,13.673904 A 33.91532,33.91532 0 0 1 44.245754,8.9487226 33.91532,33.91532 0 0 1 78.161074,42.864043 33.91532,33.91532 0 0 1 73.435893,60.059065 L 58.233616,44.862308 60.231882,42.864043 72.679644,55.317325 A 31.089044,31.089044 0 0 0 75.334798,42.864043 31.089044,31.089044 0 0 0 44.245754,11.774999 31.089044,31.089044 0 0 0 29.120759,15.743931 Z"
-     id="path1" />
+     d="m 20.518673,19.633327 c 4.282158,-4.274631 9.629903,-7.32587 15.488652,-8.837292 l 0.03023,21.536549 -2.876185,0.0075 0.02103,-17.656647 c -3.995136,1.555317 -7.62541,3.920132 -10.662708,6.945845 -12.125514,12.15652 -12.149491,31.863264 0.007,43.988778 3.759655,3.73207 8.35101,6.451647 13.45191,7.881395 l -0.009,2.888713 C 30.110695,74.892603 24.822596,71.878692 20.530806,67.619057 7.2691499,54.391223 7.290843,32.894981 20.518677,19.633324 Z m 32.452296,-8.858953 c 5.86259,1.496456 11.21811,4.534029 15.51117,8.797711 13.261657,13.227835 13.320015,34.724077 0.09218,47.985734 -4.282158,4.274631 -9.740038,7.342314 -15.598788,8.853736 l -0.0013,-21.511783 2.766534,-0.01028 0.07802,17.614368 c 3.99898,-1.552744 7.713389,-3.916299 10.754475,-6.941965 12.125515,-12.156523 12.100381,-31.841001 -0.05614,-43.966516 -3.759655,-3.73207 -8.441546,-6.463802 -13.542446,-7.89355 z"
+     id="path1"
+     sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  <rect
+     style="fill:#ffffff;stroke-width:1.86523"
+     id="rect5"
+     width="2.8274369"
+     height="42.06789"
+     x="41.874985"
+     y="-66.001266"
+     transform="matrix(-0.00750034,0.99997187,-0.99999981,-6.1970777e-4,0,0)" />
 </svg>
